@@ -1,2 +1,2 @@
 # IF
-www.github.com/grokzomborg 
+github.com/grokzomborg 
